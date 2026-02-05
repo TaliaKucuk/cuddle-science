@@ -1,0 +1,33 @@
+body 
+{
+  font-family: system-ui;
+  background-color: #e8c8e1;
+  color: #423840;
+  text-align: center;
+}
+#cuddles-title 
+{
+  color: #423840
+}
+
+#wealllovecuddles
+{
+color: #944d86}
+
+#five-reasons
+{color: #c975b9;
+text-align: left;}
+
+#reasons
+{color: #423840;
+text-align: left;}
+
+.sleep-cuddles 
+{display: block;
+  margin: 0;
+  width: 500px;}
+
+.sketch-cuddling 
+{display: block;
+  margin: 0;
+  width: 300px;}
