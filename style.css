@@ -1,15 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins&display=swap');
-body {
-  font-family: 'Poppins', sans-serif;
+body 
+{
+  font-family: system-ui;
+  background-color: #e8c8e1;
   color: #423840;
-  line-height: 1.6; 
+  text-align: center;
 }
-#cuddles-title {
-  font-family: 'Great Vibes', cursive;
-  font-size: 3rem;
-  color: #423840;
+#cuddles-title 
+{
+  color: #423840
 }
-
 
 #wealllovecuddles
 {
